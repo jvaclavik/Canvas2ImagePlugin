@@ -5,6 +5,8 @@ This plugin allows you to save the contents of an HTML canvas tag to the iOS Pho
 
 See an example project using it here: [https://github.com/devgeeks/Canvas2ImageDemo](https://github.com/devgeeks/Canvas2ImageDemo) - note: this app does not work in wp8.
 
+**This fork returns Asset URL for saved image on iOS**
+
 Installation
 ------------
 
