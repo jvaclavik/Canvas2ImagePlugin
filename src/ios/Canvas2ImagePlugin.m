@@ -1,3 +1,5 @@
+
+
 //
 //  Canvas2ImagePlugin.m
 //  Canvas2ImagePlugin PhoneGap/Cordova plugin
